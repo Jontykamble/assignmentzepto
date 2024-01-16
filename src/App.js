@@ -5,12 +5,13 @@ import MainContainer from "./components/MainContainer";
 function App() {
   const [isItemBoxVisible, setIsItemBoxVisible] = useState(false);
   const [nameLists, setNameLists] = useState([
-    "Nick Giannopoulos",
-    "Narayana Garner",
-    "Anita Gros",
-    "Megan Smith",
-    "Marina Augustine",
-    "Jayasimman",
+    "Jonty kamble",
+    "Nayan kamble",
+    "Suyog kamble",
+    "Abhilash kamble",
+    "Ram dafale",
+    "Aishwarya kamble",
+    "Isha bisandre"
   ]);
   const [chipLists, setChipLists] = useState([]);
   const [inputValue, setInputValue] = useState("");
